@@ -1,0 +1,25 @@
+1.Install NodeJS and NPM 
+  https://nodejs.org/en/
+  download LTS Recommended  .msi  file and rt click on it,install
+
+open cmd and run   node -v,    npm -v
+
+2.Open cmd (node command prompt)
+go to contactapp project directory and run below commands one by one in node command.
+npm install bootstrap --save
+npm install react-bootstrap
+npm install axios
+npm install --save react-router-dom
+
+
+3. npm start 
+command to run reactapp
+
+
+4.Make sure spring boot application is running
+
+
+
+5.(Optional)to check react code ,use vscode studio
+Install VS code
+file-->open folder-->goto under app folder and open it.
